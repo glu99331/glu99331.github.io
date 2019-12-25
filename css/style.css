@@ -184,32 +184,10 @@ img.admin {
     margin-right: 0.5em;
 }
 
-.current-classes
+.current-classes li, .previous-classes li
 {
     color: #fff;
-}
-.current-classes-header
-{
-    text-align: left;
-    font-size: 1.5em;
-}
-.current-classes-body
-{
-    text-align: center;
-}
-.previous-classes
-{
-    color: #fff;
-}
-.previous-classes-header
-{
-    text-align: left;
-    font-size: 1.5em;
-}
-.current-classes-body
-{
-    text-align: center;
-    
+    text-align: center
 }
 /*----*
 .tab-main label:before {
