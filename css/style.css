@@ -218,6 +218,7 @@ img.admin {
     background: #fff;
     /* border-top: 2px solid #FC427B; */
     /* border-bottom: 1px solid #fff; */
+    transition: width .3s;
     border-radius: 4px;
 }
 /* .cool-link {
