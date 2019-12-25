@@ -188,11 +188,15 @@ img.admin {
 {
     color: #fff;
     text-align: center;
+    padding-left: 4em;
+
 }
 .previous-classes
 {
     color: #fff;
     text-align: center;
+    padding-top: 4em;
+
 }
 /*----*
 .tab-main label:before {
