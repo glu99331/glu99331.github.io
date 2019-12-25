@@ -186,16 +186,16 @@ img.admin {
 
 .current-classes
 {
-    color: #fff;
+    color: #d3d3d3;
     text-align: center;
-    padding-left: 4em;
+    padding-left: 6em;
 
 }
 .previous-classes
 {
-    color: #fff;
+    color: #d3d3d3;
     text-align: center;
-    padding-top: 4em;
+    padding-top: 6em;
 
 }
 /*----*
