@@ -184,6 +184,14 @@ img.admin {
     margin-right: 0.5em;
 }
 
+.current-classes
+{
+    color: #fff;
+}
+.previous-classes
+{
+    color: #fff;
+}
 /*----*
 .tab-main label:before {
     font-family: fontawesome;
