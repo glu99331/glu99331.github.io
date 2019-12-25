@@ -187,10 +187,12 @@ img.admin {
 .current-classes
 {
     color: #fff;
+    text-align: center;
 }
 .previous-classes
 {
     color: #fff;
+    text-align: center;
 }
 /*----*
 .tab-main label:before {
