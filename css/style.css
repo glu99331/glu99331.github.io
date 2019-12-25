@@ -188,6 +188,10 @@ img.admin {
 {
     color: #fff;
 }
+.current-classes-header, .previous-classes-header
+{
+    font-size: 1.0em;
+}
 /*----*
 .tab-main label:before {
     font-family: fontawesome;
