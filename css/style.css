@@ -184,10 +184,9 @@ img.admin {
     margin-right: 0.5em;
 }
 
-.current-classes li, .previous-classes li
+.current-classes, .previous-classes
 {
     color: #fff;
-    text-align: center
 }
 /*----*
 .tab-main label:before {
