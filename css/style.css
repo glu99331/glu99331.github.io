@@ -208,6 +208,8 @@ img.admin {
 .tab-main label:hover {
     color: #ff4c4c;
     cursor: pointer;
+    transition: width .3s;
+
 }
 
 .tab-main input:checked + label {
@@ -218,7 +220,25 @@ img.admin {
     /* border-bottom: 1px solid #fff; */
     border-radius: 4px;
 }
+/* .cool-link {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+}
 
+.cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #EB6100;
+    transition: width .3s;
+}
+
+.cool-link:hover::after {
+    width: 100%;
+    transition: width .3s;
+} */
 .tab-main #tab1:checked ~ #content1,
 .tab-main #tab2:checked ~ #content2,
 .tab-main #tab3:checked ~ #content3,
