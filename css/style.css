@@ -187,16 +187,29 @@ img.admin {
 .current-classes
 {
     color: #fff;
+}
+.current-classes-header
+{
+    text-align: left;
+    font-size: 1.5em;
+}
+.current-classes-body
+{
     text-align: center;
-    padding-left: 6em;
-
 }
 .previous-classes
 {
     color: #fff;
+}
+.previous-classes-header
+{
+    text-align: left;
+    font-size: 1.5em;
+}
+.current-classes-body
+{
     text-align: center;
-    padding-left: 6em;
-
+    
 }
 /*----*
 .tab-main label:before {
