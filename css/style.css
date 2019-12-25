@@ -186,10 +186,14 @@ img.admin {
 
 .current-classes, .previous-classes
 {
+    font-family: 'Raleway', sans-serif;
+    scroll-behavior: smooth;
     color: #fff;
 }
 .current-classes-header, .previous-classes-header
 {
+    font-family: 'Raleway', sans-serif;
+    scroll-behavior: smooth;
     font-size: 1.0em;
 }
 /*----*
