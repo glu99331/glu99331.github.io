@@ -522,7 +522,7 @@ table.blueTable-1 {
   border: 1px solid #1C6EA4;
   background-color: #EEEEEE;
   width: 100%;
-  text-align: left;
+  text-align: center;
   font-family: 'Raleway', sans-serif;
   border-collapse: collapse;
 }
@@ -595,7 +595,7 @@ table.blueTable-2 {
     border: 1px solid #1C6EA4;
     background-color: #EEEEEE;
     width: 100%;
-    text-align: left;
+    text-align: center;
     font-family: 'Raleway', sans-serif;
     border-collapse: collapse;
   }
