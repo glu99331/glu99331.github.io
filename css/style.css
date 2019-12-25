@@ -169,10 +169,11 @@ img.admin {
     padding: 10px 25px;
     font-weight: 600;
     text-align: center;
-    color: #595a5a;
+    /* color: #595a5a; */
+    color:#fff;
     border: 2px solid #ffffff47;
     border-radius: 4px;
-    background: #fff;
+   /*  background: #fff; */
     margin: 0 2px;
     font-size: 0.9em;
     letter-spacing: 1px;
