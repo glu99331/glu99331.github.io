@@ -186,6 +186,7 @@ img.admin {
 
 .current-classes, .previous-classes
 {
+    margin-top: -30px;
     font-family: 'Raleway', sans-serif;
     scroll-behavior: smooth;
     color: #fff;
@@ -515,6 +516,153 @@ form.contact-form {
         letter-spacing: 2px;
     }
 }
+
+/* Table formatting */
+table.blueTable-1 {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  border-collapse: collapse;
+}
+table.blueTable-1 td, table.blueTable-1 th {
+  font-family: 'Raleway', sans-serif;
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table.blueTable-1 tbody td {
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+}
+table.blueTable-1 tr:nth-child(even) {
+  font-family: 'Raleway', sans-serif;
+  background: #D0E4F5;
+}
+table.blueTable-1 thead {
+  background: #1C6EA4;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable-1 thead th {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable-1 thead th:first-child {
+  border-left: none;
+}
+
+table.blueTable-1 tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
+table.blueTable-1 tfoot td {
+  font-size: 14px;
+}
+table.blueTable-1 tfoot .links {
+  text-align: right;
+}
+table.blueTable-1 tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+.current-class-1
+{
+    margin-top: -30px;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    opacity: 0.9;
+}
+
+table.blueTable-2 {
+    border: 1px solid #1C6EA4;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    border-collapse: collapse;
+  }
+  table.blueTable-2 td, table.blueTable-2 th {
+    font-family: 'Raleway', sans-serif;
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  table.blueTable-2 tbody td {
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+  }
+  table.blueTable-2 tr:nth-child(even) {
+    font-family: 'Raleway', sans-serif;
+    background: #D0E4F5;
+  }
+  table.blueTable-2 thead {
+    background: #1C6EA4;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    border-bottom: 2px solid #444444;
+  }
+  table.blueTable-2 thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+    font-family: 'Raleway', sans-serif;
+  }
+  table.blueTable-2 thead th:first-child {
+    border-left: none;
+  }
+  
+  table.blueTable-2 tfoot {
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #D0E4F5;
+    background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    border-top: 2px solid #444444;
+  }
+  table.blueTable-2 tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable-2 tfoot .links {
+    text-align: right;
+  }
+  table.blueTable-2 tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+  
+  .current-class-2
+  {
+      margin-top: 20px;
+      font-size: 24px;
+      font-family: 'Raleway', sans-serif;
+      opacity: 0.9;
+  }
 
 @media(max-width:384px) {}
 
