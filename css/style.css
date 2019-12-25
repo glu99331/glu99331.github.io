@@ -22,7 +22,10 @@ body a {
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-
+a
+{
+    color: #ff4c4c;
+}
 a:hover {
     text-decoration: none;
 }
@@ -208,7 +211,6 @@ img.admin {
 .tab-main label:hover {
     color: #ff4c4c;
     cursor: pointer;
-    transition: width .3s;
 
 }
 
