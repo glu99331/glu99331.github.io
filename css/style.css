@@ -144,6 +144,7 @@ img.admin {
     margin: 0 auto;
     width: 55%;
     padding-top: 4em;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
 
 }
@@ -349,7 +350,7 @@ form.contact-form {
 /* //contact form */
 
 .copy-w3layouts-right p {
-
+    font-family: 'Raleway', sans-serif;
     letter-spacing: 2px;
 }
 
