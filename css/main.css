@@ -362,12 +362,12 @@ iframe {
 #resume a:hover, #resume a:focus { color: #fff; }
 
 #resume h5 {
-  color: #fff;
   font: 18px/24px 'opensans-bold', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 #resume h5 span {
+  color: #fff;
   border-bottom: 3px solid #11ABB0;
   padding-bottom: 6px;
 }
@@ -385,7 +385,7 @@ iframe {
   border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-  font: 16px/24px 'librebaskerville-italic', serif;
+  font: 16px/24px 'opensans-bold', sans-serif;
   /* color: #6E7881; */
   color: #ff4c4c;
   margin-bottom: 18px;
@@ -424,8 +424,8 @@ iframe {
 }
 .bars li em {
  font: 15px 'opensans-bold', sans-serif;
-  /* color: #313131; */
-  color: #ff4c4c;
+  color: #313131;
+  /* color: #ff4c4c; */
  text-transform: uppercase;
   letter-spacing: 2px;
  font-weight: normal;
