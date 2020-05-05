@@ -255,7 +255,7 @@ img.admin {
 .tab-main #tab2:checked ~ #content2,
 .tab-main #tab3:checked ~ #content3,
 .tab-main #tab4:checked ~ #content4,
-.tab-main #tab5:checked ~ #content5{
+.tab-main #tab5:checked ~ #resume{
     display: block;
 }
 
