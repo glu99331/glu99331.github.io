@@ -384,7 +384,8 @@ iframe {
 }
 #resume .info {
   font: 16px/24px 'librebaskerville-italic', serif;
-  color: #6E7881;
+  /* color: #6E7881; */
+  color: #ff4c4c;
   margin-bottom: 18px;
   margin-top: 9px;
 }
@@ -414,13 +415,15 @@ iframe {
 .bars li {
   position: relative;
    margin-bottom: 60px;
-   background: #ccc;
+   /* background: #ccc; */
+   background: #ff4c4c;
    height: 42px;
    border-radius: 3px;
 }
 .bars li em {
  font: 15px 'opensans-bold', sans-serif;
-  color: #313131;
+  /* color: #313131; */
+  color: #ff4c4c;
  text-transform: uppercase;
   letter-spacing: 2px;
  font-weight: normal;
