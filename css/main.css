@@ -417,8 +417,8 @@ iframe {
 .bars li {
   position: relative;
    margin-bottom: 60px;
-   /* background: #ccc; */
-   background: #ff4c4c;
+   background: #ccc;
+   /* background: #ff4c4c; */
    height: 42px;
    border-radius: 3px;
 }
