@@ -372,7 +372,7 @@ iframe {
   padding-bottom: 6px;
 }
 #resume h6 {
-  color: #ff4c4c;
+  color: #fff;
   font: 25px/30px 'opensans-bold', sans-serif;
 }
 
@@ -424,7 +424,7 @@ iframe {
 }
 .bars li em {
  font: 15px 'opensans-bold', sans-serif;
-  color: #313131;
+  color: #fff;
   /* color: #ff4c4c; */
  text-transform: uppercase;
   letter-spacing: 2px;
