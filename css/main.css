@@ -372,8 +372,10 @@ iframe {
   padding-bottom: 6px;
 }
 #resume h6 {
-  color: #fff;
   font: 25px/30px 'opensans-bold', sans-serif;
+}
+#resume h6 span{
+  color: #fff;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -424,8 +426,7 @@ iframe {
 }
 .bars li em {
  font: 15px 'opensans-bold', sans-serif;
-  color: #fff;
-  /* color: #ff4c4c; */
+  color: #ff4c4c;
  text-transform: uppercase;
   letter-spacing: 2px;
  font-weight: normal;
