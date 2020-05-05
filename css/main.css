@@ -403,10 +403,7 @@ iframe {
   margin-top: 6px;
 }
 
-#resume .lumentum
-{
-  color: #fff;
-}
+
 
 /*----------------------------------------------*/
 /*	Skill Bars
@@ -443,12 +440,12 @@ iframe {
   position: absolute;
   left: 0;
   top: 0;
-
   margin: 0;
   padding-right: 24px;
-   background: #313131;
+   /* background: #313131; */
+  background: #3DB4A1;
   display: inline-block;
-   height: 42px;
+  height: 42px;
   line-height: 42px;
   border-radius: 3px 0 0 3px;
 }
