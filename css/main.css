@@ -471,7 +471,7 @@ iframe {
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
 }
-.html5 {
+.webdev {
    width: 80%;
    -moz-animation: html5 2s ease;
    -webkit-animation: html5 2s ease;
@@ -498,7 +498,7 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 85%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes webdev {
  0%   { width: 0px;  }
  100% { width: 80%;  }
 }
@@ -523,7 +523,7 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 85%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes webdev {
  0%   { width: 0px;  }
  100% { width: 80%;  }
 }
