@@ -453,28 +453,28 @@ iframe {
 
 .java {
    width: 95%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
 }
 .python {
    width: 80%;
-   -moz-animation: illustrator 2s ease;
-   -webkit-animation: illustrator 2s ease;
+   -moz-animation: python 2s ease;
+   -webkit-animation: python 2s ease;
 }
 .r {
    width: 60%;
-   -moz-animation: wordpress 2s ease;
-   -webkit-animation: wordpress 2s ease;
+   -moz-animation: r 2s ease;
+   -webkit-animation: r 2s ease;
 }
 .c {
    width: 85%;
-   -moz-animation: css 2s ease;
-   -webkit-animation: css 2s ease;
+   -moz-animation: c 2s ease;
+   -webkit-animation: c 2s ease;
 }
 .webdev {
    width: 70%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+   -moz-animation: webdev 2s ease;
+   -webkit-animation: webdev 2s ease;
 }
 .jquery {
    width: 80%;
