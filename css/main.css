@@ -476,8 +476,8 @@ iframe {
    -moz-animation: html5 2s ease;
    -webkit-animation: html5 2s ease;
 }
-.jquery {
-   width: 50%;
+.ml {
+   width: 80%;
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
@@ -502,9 +502,9 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 70%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes ml {
  0%   { width: 0px;  }
- 100% { width: 50%;  }
+ 100% { width: 80%;  }
 }
 
 @-webkit-keyframes java {
@@ -527,7 +527,7 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 70%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes ml {
  0%   { width: 0px;  }
- 100% { width: 50%;  }
+ 100% { width: 80%;  }
 }
