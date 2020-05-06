@@ -466,18 +466,18 @@ iframe {
    -moz-animation: wordpress 2s ease;
    -webkit-animation: wordpress 2s ease;
 }
-.css {
-   width: 90%;
+.c {
+   width: 85%;
    -moz-animation: css 2s ease;
    -webkit-animation: css 2s ease;
 }
-.html5 {
-   width: 80%;
+.webdev {
+   width: 75%;
    -moz-animation: html5 2s ease;
    -webkit-animation: html5 2s ease;
 }
-.jquery {
-   width: 50%;
+.ml {
+   width: 80%;
    -moz-animation: jquery 2s ease;
    -webkit-animation: jquery 2s ease;
 }
@@ -494,17 +494,17 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 60%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes c {
  0%   { width: 0px;  }
- 100% { width: 90%;  }
+ 100% { width: 85%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes webdev {
+ 0%   { width: 0px;  }
+ 100% { width: 75%;  }
+}
+@-moz-keyframes ml {
  0%   { width: 0px;  }
  100% { width: 80%;  }
-}
-@-moz-keyframes jquery {
- 0%   { width: 0px;  }
- 100% { width: 50%;  }
 }
 
 @-webkit-keyframes java {
@@ -519,15 +519,15 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 60%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes c {
  0%   { width: 0px;  }
- 100% { width: 90%;  }
+ 100% { width: 85%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes webdev {
+ 0%   { width: 0px;  }
+ 100% { width: 75%;  }
+}
+@-webkit-keyframes ml {
  0%   { width: 0px;  }
  100% { width: 80%;  }
-}
-@-webkit-keyframes jquery {
- 0%   { width: 0px;  }
- 100% { width: 50%;  }
 }
