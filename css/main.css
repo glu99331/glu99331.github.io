@@ -481,11 +481,32 @@ iframe {
    -moz-animation: webdev 2s ease;
    -webkit-animation: webdev 2s ease;
 }
-.jquery {
+.ml {
    width: 80%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: ml 2s ease;
+   -webkit-animation: ml 2s ease;
 }
+.office {
+  width: 90%;
+  -moz-animation: office 2s ease;
+  -webkit-animation: office 2s ease;
+}
+.econometrics {
+  width: 80%;
+  -moz-animation: econometrics 2s ease;
+  -webkit-animation: econometrics 2s ease;
+}
+.finance {
+  width: 65%;
+  -moz-animation: finance 2s ease;
+  -webkit-animation: finance 2s ease;
+}
+.welfare {
+  width: 85%;
+  -moz-animation: welfare 2s ease;
+  -webkit-animation: welfare 2s ease;
+}
+
 
 @-moz-keyframes java {
  0%   { width: 0px;  }
@@ -511,9 +532,25 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 70%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes ml {
  0%   { width: 0px;  }
  100% { width: 80%;  }
+}
+@-moz-keyframes office {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes econometrics {
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
+}
+@-moz-keyframes finance {
+ 0%   { width: 0px;  }
+ 100% { width: 65%;  }
+}
+@-moz-keyframes welfare {
+ 0%   { width: 0px;  }
+ 100% { width: 85%;  }
 }
 
 @-webkit-keyframes java {
@@ -540,7 +577,23 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 70%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes ml {
  0%   { width: 0px;  }
  100% { width: 80%;  }
 }
+@-webkit-keyframes office {
+ 0%   { width: 0px;  }
+ 100% { width: 90%;  }
+}
+@-webkit-keyframes econometrics {
+ 0%   { width: 0px;  }
+ 100% { width: 80%;  }
+}
+@-webkit-keyframes finance {
+ 0%   { width: 0px;  }
+ 100% { width: 65%;  }
+}
+@-webkit-keyframes welfare {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+ }
