@@ -471,6 +471,11 @@ iframe {
    -moz-animation: c 2s ease;
    -webkit-animation: c 2s ease;
 }
+.stata {
+  width: 65%;
+  -moz-animation: stata 2s ease;
+  -webkit-animation: stata 2s ease;
+}
 .webdev {
    width: 70%;
    -moz-animation: webdev 2s ease;
@@ -498,6 +503,10 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 85%;  }
 }
+@-moz-keyframes stata {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+ }
 @-moz-keyframes webdev {
  0%   { width: 0px;  }
  100% { width: 70%;  }
@@ -523,6 +532,10 @@ iframe {
  0%   { width: 0px;  }
  100% { width: 85%;  }
 }
+@-webkit-keyframes stata {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+ }
 @-webkit-keyframes webdev {
  0%   { width: 0px;  }
  100% { width: 70%;  }
