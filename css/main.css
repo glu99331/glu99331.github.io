@@ -278,7 +278,8 @@ iframe {
 }
 
 .row:hover {
-  background-color: #6c7ae0;;
+  background-color: #3DB4A1;
+  /* background-color: #6c7ae0;; */
   cursor: pointer;
 }
 
