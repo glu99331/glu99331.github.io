@@ -380,6 +380,14 @@ iframe {
   color: #fff;
 }
 
+#resume h4 {
+  font: 18px/24px 'opensans-bold', sans-serif;
+}
+#resume h4 span{
+  /* color: #fff; */
+  color: #ff4c4c;
+}
+
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
