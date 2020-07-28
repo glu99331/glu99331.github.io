@@ -4,7 +4,7 @@ public class testDLB
     public static void main(String[] args)
     {
         BufferedReader br = new BufferedReader(new FileReader("dictionary.txt"));
-        DLB dictionaryTrie = new DLB();
+        DLB dictionaryTrie = new DLBTrie();
 
         int total_dictionary_words = 0, words_in_dlb = 0;
 
