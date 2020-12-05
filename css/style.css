@@ -111,9 +111,8 @@ img.admin {
 
 .inner-w3layouts-wrap h2,
 .head-w3ls {
-    background-color: #fff;
-    color: #dff0f738;
-    /* color: #fff; */
+    
+    color: #fff;
     font-size: 2em;
     text-transform: uppercase;
     letter-spacing: 3px;
