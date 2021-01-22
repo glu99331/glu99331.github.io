@@ -601,7 +601,8 @@ table.blueTable-2 {
   table.blueTable-2 td, table.blueTable-2 th {
     font-family: 'Raleway', sans-serif;
     border: 1px solid #AAAAAA;
-    padding: 3px 2px;
+    padding: 10px;
+    /* padding: 3px 2px; */
   }
   table.blueTable-2 tbody td {
     font-family: 'Raleway', sans-serif;
@@ -663,8 +664,8 @@ table.blueTable-2 {
       opacity: 0.9;
   }
 
-@media(max-width:384px) {}
+@media(max-width:500px) {}
 
-@media(max-width:375px) {}
+@media(max-width:500px) {}
 
 /*--//responsive--*/
