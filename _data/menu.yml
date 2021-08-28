@@ -1,0 +1,63 @@
+menu_title: Example menu title
+menu_headline: example menu headline
+menu_intro: Hi! This is an example of intro that you could write for your jekyll minimal-categorized theme!
+show_menu_on_gate_page: False
+minimal_menu: True
+menu_logo: assets/img/profile.png
+
+menu_pages:
+- title: Home
+  url: /
+  show_on_home: False
+  icon_name: fas fa-home
+  category: home
+
+- title: Teaching
+  url: /teaching.html
+  show_on_home: True
+  image_url: assets/img/teaching.png
+  icon_name: fas fa-chalkboard-teacher
+  category: Teaching
+  tooltip: Teaching
+  description: To view recitation material, as well as courses I am currently a UTA for, click the above image.
+
+- title: Teaching Experience
+  url: /experience.html
+  show_on_home: False
+  icon_name: fas fa-laptop
+  category: Experience
+  tooltip: Teaching Experience
+  description:
+
+- title: Resume
+  url: /resume.html
+  show_on_home: True
+  image_url: assets/img/resume.jpg
+  icon_name: fas fa-book
+  category: Resume
+  tooltip: Resume
+  description: Learn more about my work experience, projects, and coursework by clicking on the above image.
+
+- title: Private Tutoring
+  url: tutoring.html
+  show_on_home: True
+  image_url: assets/img/tutor.png
+  icon_name: fas fa-hands-helping
+  category: Tutoring
+  tooltip: Tutoring 
+  description: Learn more about what courses I offer private tutoring in by clicking the above image.
+
+
+
+menu_contacts:
+- faicon: fab fa-github-alt
+  url: https://github.com/glu99331
+  target: _blank
+
+- faicon: fas fa-envelope
+  url: mailto:lu.gordon@pitt.edu 
+  target: _blank
+
+- faicon: fab fa-linkedin-in
+  url: https://www.linkedin.com/in/glu99331/ 
+  target: _blank
