@@ -214,7 +214,7 @@
   }
   
   .row:hover {
-    background-color: #3DB4A1;
+    /* background-color: #3DB4A1; */
     cursor: pointer;
   }
   
