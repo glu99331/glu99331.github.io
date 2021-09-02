@@ -3,6 +3,6 @@
 .jekyll-cache
 .sass-cache
 Gemfile.lock_
-_site
+#_site
 # mac
 .DS_Store
